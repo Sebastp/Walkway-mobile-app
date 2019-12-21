@@ -1,11 +1,12 @@
 # Walkway React Native App - Private side project
 
 I intend to create cross platform mobile app for an existing web app project called Walkway.
+
 > Created with expo init
 
 ## Getting started
 
-To run this app first, you need to run ```npm i``` to install all necessary packages.
+To run this app first, you need to run `npm i` to install all necessary packages.
 
 ```shell
 npm run web
@@ -14,7 +15,6 @@ npm run web
 ## Versioning
 
 For the versions available, see the [Github Repo](https://github.com/Sebastp/Walkway-mobile-app).
-
 
 ## Tests
 
@@ -34,6 +34,5 @@ This project is linked to Walkway server with GraphQl and few API endpoints. Wal
 
 ## Licensing
 
-> all rights reserved © 2019 Sebastian Pobocha  <br>
-> Code only for non-commercial use  <br>
-[Linked Repo](https://github.com/Sebastp/Walkway)
+> all rights reserved © 2019 Sebastian Pobocha <br>
+> Code only for non-commercial use <br> > [Linked Repo](https://github.com/Sebastp/Walkway)
